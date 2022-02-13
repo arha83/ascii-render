@@ -2,7 +2,6 @@ import cv2 as cv
 from cv2 import sumElems
 import numpy as np
 
-chars="# +-*=.ABCDEFGHIJKLMNOPQRSTUVWXYZ'0123456789?abcdefghijklmnopqrstuvwxyz|~"
 chars="# +-*=.ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'|~"
 sums_chars=[]
 
